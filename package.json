@@ -109,7 +109,7 @@
     "postcss-cli": "^6.1.2",
     "prettier": "^1.15.1",
     "react": "^16.10.1",
-    "react-bootstrap": "^0.32.4",
+    "react-bootstrap": "^0.33.0",
     "react-docgen": "^3.0.0-rc.1",
     "react-dom": "^16.10.1",
     "react-tackle-box": "^2.1.0",
